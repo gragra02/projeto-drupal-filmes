@@ -1,0 +1,158 @@
+#navbar {
+    background-color: #333333;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #333333;
+    border-color: #ffffff;
+
+}
+
+.input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: right;
+    width: 20%;
+    background-color: #000000;
+}
+
+#navbar {
+    background-color: #000000;
+    border-color: #000000;
+    color: #fff;
+    padding-top: 2em;
+}
+
+.dialog-off-canvas-main-canvas {
+    background-color: #333333;
+}
+
+.titulo-do-filme {
+    margin-top: 3em;
+}
+
+.titulo-do-filme a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #fff;
+}
+
+h2 a {
+    text-decoration: none;
+}
+
+p {
+    color: #fff;
+}
+
+.field--label {
+    color: rgb(169, 165, 165);
+}
+
+.row img {
+    -webkit-filter: drop-shadow(15px 10px 5px rgba(0, 0, 0, .5));
+    filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, .5))
+}
+
+.row img:hover {
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+
+.navbar-default .navbar-brand {
+    color: rgb(255, 251, 251);
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.navbar navbar-default container {
+    margin-right: 0;
+}
+
+.field--label {
+    padding-top: 2em;
+    font-weight: bold;
+    padding-bottom: -3em;
+    font-size: 18px;
+}
+
+p:last-child,
+.form-group:last-child,
+.panel:last-child {
+    margin-bottom: 0;
+    margin-bottom: 1em;
+
+}
+
+.field--label {
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+
+}
+
+.field--items {
+    padding-bottom: 2em;
+}
+
+
+.field--items a {
+    text-decoration: none;
+    color: rgb(255, 251, 251)
+}
+
+.field--items a:hover {
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+.quickedit-field {
+    color: white;
+
+}
+
+.node-readmore {
+    margin-top: 2em;
+}
+
+.node-readmore a {
+    text-decoration: none;
+    background-color: #f0f0f0;
+    color: #0f0f0f;
+    padding: 8px 35px;
+    white-space: nowrap;
+    width: min-content;
+    border-radius: 20px;
+}
+
+.node-readmore a:hover {
+    transform: scale(1.1) !important;
+    transition: all 0.5s;
+}
+
+.links inline list-inline {
+    padding-top: 1em;
+}
+
+span {
+    color: #f0f0f0;
+}
+
+span a {
+    text-decoration: none;
+    color: #f0f0f0;
+    font-weight: bold;
+}
+
+
+#edit-actions img {
+    height: 36px;
+    width: 36px;
+}

@@ -1,0 +1,42 @@
+header {
+    background-color: #000;
+    margin-bottom: 30px;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    height: min-content;
+}
+
+header nav *:not(:first-child) {
+    margin-left: 20px;
+}
+
+header nav img {
+    cursor: pointer;
+}
+
+header nav input {
+    all: unset;
+    padding: 7px 8px;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 1px solid #f0f0f0;
+}
+
+header input:focus {
+    background: none;
+    border: 1px solid #f0f0f0;
+}
+
+header input {
+    width: 100px;
+}
