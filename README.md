@@ -23,7 +23,7 @@ O protótipo da interface gráfica que o projeto foi baseado, encontra-se no lin
 
 <img width="589" alt="Tela de Atores" src="https://user-images.githubusercontent.com/28744000/198143910-3c257b76-ac3e-4c86-9452-2017e09ce982.PNG">
 
-### Tela de atores - Filmes que o ator atuou.
+### Parte inferor da tela de atores - Filmes que o ator atuou.
 
 <img width="342" alt="Filmes do ator" src="https://user-images.githubusercontent.com/28744000/198144050-44ab081d-31cc-4836-90b9-f1435ac23529.PNG">
 
